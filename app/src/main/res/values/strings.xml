@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Magic 8Ball</string>
     <string name="title">Decisions?</string>
-    <string name="button">Decide!</string>
+    <string name="decide_button">Decide!</string>
 </resources>
